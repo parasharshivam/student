@@ -1,0 +1,33 @@
+# Compiled class files
+target/
+bin/
+out/
+
+# Spring Boot packaging
+*.jar
+*.war
+
+# Logs
+*.log
+logs/
+
+# STS / Eclipse settings
+.settings/
+.project
+.classpath
+
+# STS local metadata
+.metadata/
+.springBeans
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
